@@ -1,0 +1,23 @@
+{
+    "type":"origins:modify_damage_taken",
+    "modifier":{
+      "value": 2,
+      "operation":"multiply_total"
+    },
+    "damage_condition":{
+      "type":"origins:or",
+      "conditions":[
+        {
+          "type":"origins:name",
+          "name":"magic"
+        },
+        {
+          "type":"origins:name",
+          "name":"wither"
+        },
+        {
+            "type":"origins:fire"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"origins:no_shield",
+		"pineapple:lessarmor",
+		"pineapple:lesshealth",
+		"pineapple:lesshunger",
+		"pineapple:midget",
+		"pineapple:nohunger",
+		"pineapple:poisonweak",
+		"pineapple:water",
+		"pineapple:lessattack",
+		"origins:carnivore",
+		"extraorigins:photosynthesis",
+		"origins:ender_particles"
+	],
+	"icon": "minecraft:chorus_fruit",
+	"order": 0,
+	"impact": 3,
+	"name": "Pineapple",
+	"description": "placeholder"
+}
